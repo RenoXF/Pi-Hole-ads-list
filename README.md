@@ -45,7 +45,7 @@ Support https://github.com/blocklistproject/Lists
 &nbsp;
 
 Support https://github.com/neodevpro/neodevhost
-### Full version (With Dead Domain inside)：
+## Full version (With Dead Domain inside)：
 Number of Domain： 220257
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
@@ -56,7 +56,7 @@ Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost
 SmartDNS | SmartDNS |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf) | [link](https://neodev.team/smartdns.conf)
 Domain | Domain |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/domain) | [link](https://neodev.team/domain)
 
-### Lite version (Without Dead Domain inside) 精简版（不包含过期域名）：
+## Lite version (Without Dead Domain inside) 精简版（不包含过期域名）：
 
 Number of Domain 域名数目： 214870
 
@@ -174,4 +174,15 @@ https://raw.githubusercontent.com/cbuijs/ut1/master/adult/domains.24733
 https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/custom-porn-blocklist.txt
 https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt
 https://raw.githubusercontent.com/zangadoprojets/pi-hole-blocklist/main/Pornpages.txt
+```
+&nbsp;
+-------------------------------------------------------------------------------------------------------------------------------
+&nbsp;
+
+Support
+https://github.com/laksa19/indo-ads
+
+## Indonesian Adslist
+```
+https://raw.githubusercontent.com/laksa19/indo-ads/master/indo-ads.txt
 ```
