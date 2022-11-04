@@ -38,7 +38,38 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 | WhatsApp List    | [Link](https://blocklistproject.github.io/Lists/whatsapp.txt) | [Link](https://blocklistproject.github.io/Lists/alt-version/whatsapp-nl.txt) | [Link](https://blocklistproject.github.io/Lists/dnsmasq-version/whatsapp-dnsmasq.txt) | User requested list that blocks only WhatsApp          |
 | Vaping list      | [Link](https://blocklistproject.github.io/Lists/vaping.txt)   | [Link](https://blocklistproject.github.io/Lists/alt-version/vaping-nl.txt)   | [Link](https://blocklistproject.github.io/Lists/dnsmasq-version/vaping-dnsmasq.txt)   | User requested list that blocks sites promoting vaping |
 
+<br>
+
+## Download
+### Full version (With Dead Domain inside)：
+Number of Domain： 220257
+
+Format  | Compatible with  | Raw |   
+--------- |:-------------:|:-------------:|:-------------:
+Host | Pihole，Adaway，hBlock ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/host) | [link](https://neodev.team/host)
+Adblocker | uBlock，Adguard ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker) | [link](https://neodev.team/adblocker) 
+Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/dnsmasq.conf) | [link](https://neodev.team/dnsmasq.conf)
+SmartDNS | SmartDNS |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf) | [link](https://neodev.team/smartdns.conf)
+Domain | Domain |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/domain) | [link](https://neodev.team/domain)
+
+### Lite version (Without Dead Domain inside)：
+
+Number of Domain ： 214870
+
+Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
+--------- |:-------------:|:-------------:|:-------------:
+Host | Pihole，Adaway，hBlock ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host) | [link](https://neodev.team/lite_host)
+Adblocker | uBlock，Adguard ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker) | [link](https://neodev.team/lite_adblocker) 
+Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_dnsmasq.conf) | [link](https://neodev.team/lite_dnsmasq.conf)
+SmartDNS | SmartDNS |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_smartdns.conf) | [link](https://neodev.team/lite_smartdns.conf)
+Domain | Domain |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_domain) | [link](https://neodev.team/lite_domain)
 
 
+
+
+<br>
+<br>
+<br>
 Support
 https://github.com/blocklistproject/Lists
+https://github.com/neodevpro/neodevhost
