@@ -41,6 +41,8 @@ Support https://github.com/blocklistproject/Lists
 | Vaping list      | [Link](https://blocklistproject.github.io/Lists/vaping.txt)   | [Link](https://blocklistproject.github.io/Lists/alt-version/vaping-nl.txt)   | [Link](https://blocklistproject.github.io/Lists/dnsmasq-version/vaping-dnsmasq.txt)   | User requested list that blocks sites promoting vaping |
 
 &nbsp;
+-------------------------------------------------------------------------------------------------------------------------------
+&nbsp;
 
 Support https://github.com/neodevpro/neodevhost
 ### Full version (With Dead Domain inside)：
