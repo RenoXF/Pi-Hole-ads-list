@@ -4,6 +4,7 @@ Stock Blocklist
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 ```
 
+Support https://github.com/blocklistproject/Lists
 ## Main Lists
 
 | List       | Original                                                        | No IP                                                                          | DNSMASQ                                                                                 | AdGuard <br> <sup>BETA</sup>                                                | Description                                                                                              |
@@ -40,11 +41,11 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 <br>
 
-## Download
+Support https://github.com/neodevpro/neodevhost
 ### Full version (With Dead Domain inside)：
 Number of Domain： 220257
 
-Format  | Compatible with  | Raw |   
+Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
 Host | Pihole，Adaway，hBlock ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/host) | [link](https://neodev.team/host)
 Adblocker | uBlock，Adguard ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker) | [link](https://neodev.team/adblocker) 
@@ -52,9 +53,9 @@ Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost
 SmartDNS | SmartDNS |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf) | [link](https://neodev.team/smartdns.conf)
 Domain | Domain |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/domain) | [link](https://neodev.team/domain)
 
-### Lite version (Without Dead Domain inside)：
+### Lite version (Without Dead Domain inside) 精简版（不包含过期域名）：
 
-Number of Domain ： 214870
+Number of Domain 域名数目： 214870
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
@@ -72,4 +73,3 @@ Domain | Domain |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/m
 <br>
 Support
 https://github.com/blocklistproject/Lists
-https://github.com/neodevpro/neodevhost
