@@ -3,6 +3,7 @@ Stock Blocklist
 ```
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 ```
+&nbsp;
 
 Support https://github.com/blocklistproject/Lists
 ## Main Lists
@@ -28,7 +29,7 @@ Support https://github.com/blocklistproject/Lists
 | Torrent    | [Link](https://blocklistproject.github.io/Lists/torrent.txt)    | [Link](https://blocklistproject.github.io/Lists/alt-version/torrent-nl.txt)    | [Link](https://blocklistproject.github.io/Lists/dnsmasq-version/torrent-dnsmasq.txt)    | [Link](https://blocklistproject.github.io/Lists/adguard/torrent-ags.txt)    | Torrent directory <br> <sub>Will likely block legit torrent sites used for legal software download</sub> |
 | Tracking   | [Link](https://blocklistproject.github.io/Lists/tracking.txt)   | [Link](https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt)   | [Link](https://blocklistproject.github.io/Lists/dnsmasq-version/tracking-dnsmasq.txt)   | [Link](https://blocklistproject.github.io/Lists/adguard/tracking-ags.txt)   | Sites dedicated to tracking and gathering visitor info                                                   |
 
-&nbsp;
+<br>
 
 ## Beta Lists
 
@@ -39,7 +40,7 @@ Support https://github.com/blocklistproject/Lists
 | WhatsApp List    | [Link](https://blocklistproject.github.io/Lists/whatsapp.txt) | [Link](https://blocklistproject.github.io/Lists/alt-version/whatsapp-nl.txt) | [Link](https://blocklistproject.github.io/Lists/dnsmasq-version/whatsapp-dnsmasq.txt) | User requested list that blocks only WhatsApp          |
 | Vaping list      | [Link](https://blocklistproject.github.io/Lists/vaping.txt)   | [Link](https://blocklistproject.github.io/Lists/alt-version/vaping-nl.txt)   | [Link](https://blocklistproject.github.io/Lists/dnsmasq-version/vaping-dnsmasq.txt)   | User requested list that blocks sites promoting vaping |
 
-<br>
+&nbsp;
 
 Support https://github.com/neodevpro/neodevhost
 ### Full version (With Dead Domain inside)：
@@ -64,12 +65,3 @@ Adblocker | uBlock，Adguard ... |[link](https://raw.githubusercontent.com/neode
 Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_dnsmasq.conf) | [link](https://neodev.team/lite_dnsmasq.conf)
 SmartDNS | SmartDNS |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_smartdns.conf) | [link](https://neodev.team/lite_smartdns.conf)
 Domain | Domain |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_domain) | [link](https://neodev.team/lite_domain)
-
-
-
-
-<br>
-<br>
-<br>
-Support
-https://github.com/blocklistproject/Lists
